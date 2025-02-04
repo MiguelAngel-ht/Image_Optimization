@@ -1,2 +1,3 @@
 # Image_Optimization
-dsa
+
+Obtención de imágenes por autentificación en web y optimización de tamaño.
